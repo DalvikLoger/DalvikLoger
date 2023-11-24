@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DalvikLoger
 - 👀 I’m interested to resolv problems
-- 🌱 I’m currently ... stuck... that's why I'm here 
+- 🌱 I’m currently ... stuck... 
 - 💞️ I’m looking to collaborate on web development globally PHP/Javascript/Python
 
 <!---
